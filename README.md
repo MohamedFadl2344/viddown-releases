@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tauri-apps/tauri/HEAD/app-icon.png" width="120" alt="VidDown Logo" />
   <h1>VidDown</h1>
   <p><b>Your Ultimate Desktop Media Manager | مدير الوسائط المكتبي الشامل</b></p>
 
